@@ -11,3 +11,9 @@ ORACLE GUIDE:https://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/Oracle/us
 databases and applictions:https://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/DB2/db2applications.html
 
 minibase homeworks:https://pages.cs.wisc.edu/~dbbook/openAccess/Minibase/minihwk.html
+
+configuring apache tomcat 4:https://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/tomcat4-installation.html
+
+minibase overview:https://pages.cs.wisc.edu/~dbbook/openAccess/Minibase/intro/single_user.html
+
+components of minibase:https://pages.cs.wisc.edu/~dbbook/openAccess/Minibase/project.html
