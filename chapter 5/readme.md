@@ -9,3 +9,8 @@
           `sqlite3 CHAPTER5_DATABASE.db < load.txt`
 - start jupyter notebook in the directory in which the queries reside
 - then run the sql query file in jupyter notebook(CREATE A NEW IPYTHON NOTEBOOK FOR USING THE DATABASE)
+- using oracle databases
+    - download oracle client
+    - extract it and add its directory to path variable in environment variables
+    - install microsoft visual studio code 2022
+    - 
