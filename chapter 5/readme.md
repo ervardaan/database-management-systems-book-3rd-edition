@@ -11,6 +11,8 @@
 - then run the sql query file in jupyter notebook(CREATE A NEW IPYTHON NOTEBOOK FOR USING THE DATABASE)
 - using oracle databases
     - download oracle client
-    - extract it and add its directory to path variable in environment variables
+    - download sqsplus
+    - download odbc
+    - extract all and add their directory to path variable in environment variables
     - install microsoft visual studio code 2022
     - 
