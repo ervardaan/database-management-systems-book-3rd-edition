@@ -1,0 +1,16 @@
+.separator ,
+.import student.txt student
+.import faculty.txt faculty
+.import class.txt class
+.import enrolled.txt enrolled
+.import emp.txt emp
+.import dept.txt dept
+.import works.txt works
+.import flights.txt flights
+.import aircraft.txt aircraft
+.import employees.txt employees
+.import certified.txt certified
+.import suppliers.txt suppliers
+.import parts.txt parts
+.import catalog.txt catalog
+.import sailors.txt sailors
